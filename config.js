@@ -34,9 +34,9 @@ module.exports = {
     arrow: '<:Arrow:853348016979181598>', //Arrow Emoji
     pingpong: '<:PingPong:853622606199652363>', //Pingpong racket Emoji
 
-    Generator: '<a:Management:853347999086149692> <a:Management:992367000905072650>', //Generator emoji for !help embed
-    Other: '<:Other:853347989699166208>', //Other emoji for !help embed
-    Nitro: '<a:Booster:853683721734193182>', //Nitro emoji for !help embed
+    Generator: '<a:Management:991675240994328637>', //Generator emoji for !help embed
+    Other: '<:Other:991675240994328637>', //Other emoji for !help embed
+    Nitro: '<a:Booster:991675240994328637>', //Nitro emoji for !help embed
   },
 
   Token: {
