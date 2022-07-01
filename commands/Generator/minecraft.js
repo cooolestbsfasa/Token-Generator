@@ -40,12 +40,12 @@ module.exports.run = async (client, message, args) => {
         });
 
         const genembed = new MessageEmbed()
-          .setAuthor('6ixGeN', `${client.config.links.GenIcon}`, `${client.config.links.HandlerInvite}`)
-          .setURL('https://discord.gg/4mmuhf2Cww')
+          .setAuthor('<:verifi:816931754282713108>SEA GEN', `${client.config.links.GenIcon}`, `${client.config.links.HandlerInvite}`)
+          .setURL('https://discord.gg/uwqKbUYWcW')
           .setTitle('Account Generated!')
           .setDescription(`${client.emoji.success}Check your dm for the account's information!`)
           .setColor(client.color.Green)
-          .setFooter(`6ixGeN©`)
+          .setFooter(`<:verifi:816931754282713108>SEA GEN©`)
           .setTimestamp();
 
         message.channel.send(genembed);
