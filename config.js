@@ -7,9 +7,9 @@ module.exports = {
   },
 
   channels: {
-    generator: '988130470497751063', //ID of the generator channel
-    nitro: '992116528893931540', //ID of the nitro generator channel
-    memberCounter: '992116106640760882', //ID of the member count channel
+    generator: '991675240994328637', //ID of the generator channel
+    nitro: '991675240994328637', //ID of the nitro generator channel
+    memberCounter: '945068413510889543', //ID of the member count channel
   },
 
   links: {
