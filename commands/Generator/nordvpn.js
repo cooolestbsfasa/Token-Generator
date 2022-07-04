@@ -59,7 +59,7 @@ module.exports.help = {
   aliases: ['nordvpn', 'nord', 'vpn'],
   category: 'generator',
   description: 'generate a nordvpn account',
-  cooldown: 900,
+  cooldown: 60,
   usage: '',
   example: [],
 };
