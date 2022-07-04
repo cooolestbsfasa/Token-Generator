@@ -28,11 +28,11 @@ module.exports = {
   },
 
   emojis: {
-    success: '<:check:853347980824281128>', //Emoji when succeding
-    error: '<a:VoteNo:853347975257260033>', //Emoji when wrong
-    loading: '<a:Loading:853348009235578940>', //Emoji when loading
-    arrow: '<:Arrow:853348016979181598>', //Arrow Emoji
-    pingpong: '<:PingPong:853622606199652363>', //Pingpong racket Emoji
+    success: ':white_check_mark:', //Emoji when succeding
+    error: ':interrobang:', //Emoji when wrong
+    loading: ':blue_heart:', //Emoji when loading
+    arrow: ':arrow_forward:', //Arrow Emoji
+    pingpong: ':ping_pong:', //Pingpong racket Emoji
 
     Generator: '<a:Management:991675240994328637>', //Generator emoji for !help embed
     Other: '<:Other:991675240994328637>', //Other emoji for !help embed
