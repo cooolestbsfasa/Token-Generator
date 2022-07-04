@@ -59,7 +59,7 @@ module.exports.help = {
   aliases: ['spotify'],
   category: 'generator',
   description: 'generate an spotify account',
-  cooldown: 900,
+  cooldown: 60,
   usage: '',
   example: [],
 };
