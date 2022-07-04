@@ -59,7 +59,7 @@ module.exports.help = {
   aliases: ['minecraft', 'mc'],
   category: 'generator',
   description: 'generate a minecraft account',
-  cooldown: 900,
+  cooldown: 60,
   usage: '',
   example: [],
 };
