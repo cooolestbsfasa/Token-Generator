@@ -59,7 +59,7 @@ module.exports.help = {
   aliases: ['netflix', 'netflix'],
   category: 'generator',
   description: 'generate a netflix account',
-  cooldown: 900,
+  cooldown: 60,
   usage: '',
   example: [],
 };
