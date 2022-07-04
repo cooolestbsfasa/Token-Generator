@@ -61,7 +61,7 @@ module.exports.help = {
   aliases: ['disney', 'disney+'],
   category: 'generator',
   description: 'generate a disney+ account',
-  cooldown: 900,
+  cooldown: 60,
   usage: '',
   example: [],
 };
