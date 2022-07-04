@@ -59,7 +59,7 @@ module.exports.help = {
   aliases: ['origin'],
   category: 'generator',
   description: 'generate a origin account',
-  cooldown: 900,
+  cooldown: 60,
   usage: '',
   example: [],
 };
