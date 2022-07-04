@@ -59,7 +59,7 @@ module.exports.help = {
   aliases: ['uplay', 'Uplay', 'UPLAY'],
   category: 'generator',
   description: 'generate a uplay account',
-  cooldown: 900,
+  cooldown: 60,
   usage: '',
   example: [],
 };
