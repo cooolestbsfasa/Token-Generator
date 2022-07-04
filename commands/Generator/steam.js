@@ -59,7 +59,7 @@ module.exports.help = {
   aliases: ['steam'],
   category: 'generator',
   description: 'generate an origin account',
-  cooldown: 900,
+  cooldown: 60,
   usage: '',
   example: [],
 };
