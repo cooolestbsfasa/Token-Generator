@@ -40,7 +40,7 @@ module.exports.run = async (client, message, args) => {
         });
 
         const genembed = new MessageEmbed()
-          .setAuthor('6ixGeN', `${client.config.links.GenIcon}`, `${client.config.links.HandlerInvite}`)
+          .setAuthor('SEA GEN', `${client.config.links.GenIcon}`, `${client.config.links.HandlerInvite}`)
           .setURL('https://discord.gg/4mmuhf2Cww')
           .setTitle('Account Generated!')
           .setDescription(`${client.emoji.success}Check your dm for the account's information!`)
