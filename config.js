@@ -1,19 +1,19 @@
 module.exports = {
   PREFIX: '.', //prefix for the bot here
   owner: {
-    id: '938014426899021894', //put your owner Id in here so you can bypass cooldown for the generator commands and use the nitrogen command
-    username: 'XVXZY2115#2592', // ur username here but this is just for display, doesn't actually have a function
+    id: '1076041885279342603', //put your owner Id in here so you can bypass cooldown for the generator commands and use the nitrogen command
+    username: 'vs.saturn', // ur username here but this is just for display, doesn't actually have a function
     guild: '988130470497751060', //put your guild/server id here
   },
 
   channels: {
-    generator: '991675240994328637', //ID of the generator channel
-    nitro: '991675240994328637', //ID of the nitro generator channel
-    memberCounter: '945068413510889543', //ID of the member count channel
+    generator: '1192944270315884735', //ID of the generator channel
+    nitro: '1192944250762043432', //ID of the nitro generator channel
+    memberCounter: '1192941451135430726', //ID of the member count channel
   },
 
   links: {
-    HandlerInvite: 'https://discord.com/api/oauth2/authorize?client_id=881558367687032832&permissions=1551363318&scope=bot',
+    HandlerInvite: 'https://discord.com/api/oauth2/authorize?client_id=1192305878368538714&permissions=8&scope=bot',
     GenIcon: 'https://img.icons8.com/color/48/000000/in-progress--v3.gif', //G.I.F icon for the generator embed here
   },
 
